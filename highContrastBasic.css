@@ -1,0 +1,11 @@
+/* High Contrast Basic */
+body {
+    color: #eee;
+    background-color: #222;
+    }
+a {
+    color: #34ebe1; }
+a:hover {
+    color: #26fc29; }
+v {
+    color: #e61ee2; 
